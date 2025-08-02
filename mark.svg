@@ -7,11 +7,11 @@
       }
 
       .cls-1, .cls-2, .cls-3 {
-        fill: #dce0df;
+        fill: #EEEEFE;
       }
 
       .cls-1, .cls-3 {
-        stroke: #dce0df;
+        stroke: #EEEEFE;
         stroke-linecap: round;
       }
 
